@@ -145,8 +145,8 @@ const translations = {
     'projects.viewAll': 'View All Projects on GitHub',
     'projects.project1.title': 'Restu Panda Bus Website',
     'projects.project1.desc': 'The Restu Panda website is a modern and responsive platform designed to present information in an attractive, accessible, and user-friendly way across various devices.',
-    'projects.project2.title': 'Portfolio Website',
-    'projects.project2.desc': 'Responsive personal portfolio website with modern animations. Created using React, Tailwind CSS, and Framer Motion.',
+    'projects.project2.title': 'UI / UX Gojek Flutter',
+    'projects.project2.desc': 'Gojek UI/UX is the result of interface design and user experience that focuses on ease, speed, and comfort in using the Gojek application.',
     'projects.project3.title': 'My First Portfolio',
     'projects.project3.desc': 'My first portfolio website to showcase my profile and work.',
 
